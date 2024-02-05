@@ -1,4 +1,4 @@
-# UNP_Project_MS_EXCEL_HR_DATA
+# UNP_PROJECT_MS_EXCEL_HR_DATA
 
 Gender Disparity in Attrition: The higher attrition rate among males compared to females suggests potential gender-specific factors influencing turnover, which could be explored further.
 
