@@ -13,4 +13,4 @@ Travel Frequency and Attrition: Employees who travel frequently have a higher at
 Departmental Attrition: The highest attrition rates in the research and development, sales, and HR departments suggest the need for department-specific interventions or improvements to address underlying issues contributing to turnover within each area. This could involve examining factors such as workload, leadership, and organizational culture.
 
 
-POWER POINT LINK -https://www.canva.com/design/DAF75-aOHTE/rhDrYJpOM82EHY66xDEa4g/edit?utm_content=DAF75-aOHTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+POWER POINT LINK -https://drive.google.com/file/d/1YQeroX4DXm5tJj079hcahjo9X8hsF3vr/view?usp=sharing
