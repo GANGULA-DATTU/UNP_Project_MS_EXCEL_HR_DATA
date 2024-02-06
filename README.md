@@ -14,3 +14,4 @@ Applied relevant Excel functions and formulas to optimize and structure the data
 
 
 PDF LINK: https://drive.google.com/file/d/1YQeroX4DXm5tJj079hcahjo9X8hsF3vr/view?usp=sharing
+EXCEL FILE LINK : https://1drv.ms/x/s!AgcWhuQq7fECkGPXrN2Q917w82JA?e=iV9q0T
